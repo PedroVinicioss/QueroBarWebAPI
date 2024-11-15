@@ -1,0 +1,6 @@
+@QueroBarWebAPI_HostAddress = http://localhost:5117
+
+GET {{QueroBarWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
